@@ -15,7 +15,7 @@ public class singAnotherSong {
                 System.out.println("Mother duck said, “Quack quack quack quack”");
                 System.out.println("And only" + word + "little ducks came back!");
                 if (i == 1) {
-                    System.out.println("All the ducks ended up in a pancake.");
+                    System.out.println("And all the little ducks came back.");
                 }
                     else {
                     int newNum = i - 1;
